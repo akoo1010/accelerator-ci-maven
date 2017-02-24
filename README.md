@@ -14,7 +14,7 @@ Project contains a sample proxy for a currency API that retrieves exchange rates
 for a base currency using [fixer.io](http://fixer.io) API as the target.
 
 See [Currency API OpenAPI Specification](./docs/currency-v1.yaml) for more
-information on northbound api design.
+information on northbound API design.
 
 The following best practices demonstrated:
 
