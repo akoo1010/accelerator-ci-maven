@@ -6,7 +6,7 @@ The objective of the project is to implement a containarized framework that can
 be used to demonstrate best practices around continuous integration for Apigee
 projects. New sentence.
 
-## Components
+## Components.
 
 ### Sample Apigee Proxy - Currency API
 
