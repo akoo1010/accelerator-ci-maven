@@ -8,6 +8,8 @@ projects. New sentence.
 
 ## Components
 
+New comment
+
 ### Sample Apigee Proxy - Currency API
 
 Project contains a sample proxy for a currency API that retrieves exchange rates
